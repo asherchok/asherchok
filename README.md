@@ -27,3 +27,7 @@ I'm a SWE @ Oasis Scientific Inc, specializing in the development of swift apps 
 - [Email](asher.chok@oasisscientific.com)
 
 Thank you for visiting my GitHub profile!
+
+```bash
+find . -name '*.cs' -print0 | xargs -0 wc -l
+```
