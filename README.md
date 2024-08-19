@@ -12,22 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello, I'm Asher!
+## Hello!
 
-I'm a SWE @ Oasis Scientific Inc, specializing in the development of swift apps with SwiftUI/UIKit, and interacting with Objective-C code!
+I'm Asher. I'm just some guy that enjoys writing software.
 
 ## 🛠️ Skills and Tools
 
-- **Languages**: Swift (SwiftUI/UIKit), Python
-- **Interested in**: Kotlin, Flutter or React Native
+- **Languages**: Python, Swift, C#
+- **Interested in**: Flutter
 
-## 📫 How to reach me
+- Lines I always run to track my progress on zsh:
+```bash
+find . -name '*.cs' -print0 | xargs -0 wc -l
+find . -name '*.swift' -print0 | xargs -0 wc -l
+```
+
+## 📫 HMU at
 
 - [LinkedIn](https://www.linkedin.com/in/asherchok/)
-- [Email](asher.chok@oasisscientific.com)
 
 Thank you for visiting my GitHub profile!
 
-```bash
-find . -name '*.cs' -print0 | xargs -0 wc -l
-```
