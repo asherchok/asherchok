@@ -25,6 +25,7 @@ I'm Asher. I'm just some guy that enjoys writing software.
 ```bash
 find . -name '*.cs' -print0 | xargs -0 wc -l
 find . -name '*.swift' -print0 | xargs -0 wc -l
+find . -name '*.dart' -print0 | xargs -0 wc -l
 ```
 
 ## 📫 HMU at
