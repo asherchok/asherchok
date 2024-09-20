@@ -18,8 +18,7 @@ I'm Asher. I'm just some guy that enjoys writing software.
 
 ## 🛠️ Skills and Tools
 
-- **Languages**: Python, Swift, C#
-- **Interested in**: Flutter
+- **Languages**: Python, Swift, C#, Dart
 
 - Lines I always run to track my progress on zsh:
 ```bash
