@@ -20,7 +20,7 @@ I'm Asher. I'm just some guy that enjoys writing software.
 
 - **Languages**: Python, Swift, C#, Dart
 
-- Lines I always run to track my progress on zsh:
+- Lines I always run to track my progress on zsh (Deprecated. Use `cl <file_extension>` command instead):
 ```bash
 find . -name '*.cs' -print0 | xargs -0 wc -l
 find . -name '*.swift' -print0 | xargs -0 wc -l
